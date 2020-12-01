@@ -1,0 +1,6 @@
+*.env
+certs/
+demo-app/certs/
+demo-app/node_modules/
+demo-app/*.env
+volumes/
