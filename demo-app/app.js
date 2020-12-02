@@ -1,6 +1,6 @@
 // Use strict mode
 "use strict";
-// I can do this programmatically
+// I can do this programmatically, but I'm lazy ;-)
 const RoleId = process.env.APPROLE_ROLE_ID;
 const SecretId = process.env.APPROLE_SECRET_ID;
 

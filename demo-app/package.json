@@ -1,14 +1,15 @@
 {
-  "name": "simple-app",
+  "name": "demo-app",
   "version": "0.1.0",
   "description": "A simple node.js app using HashiCorp Vault API",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "source process-app.env && node app.js"
   },
   "author": "Rod Anami",
-  "license": "EPL-2.0",
+  "license": "Apache-2.0",
   "dependencies": {
-    "hashi-vault-js": "^0.3.16"
+    "hashi-vault-js": "^0.3.17"
   }
 }
