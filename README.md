@@ -35,9 +35,12 @@
 
 ## Artefatos
 
-* `hashi-vault-js`
+* Biblioteca `hashi-vault-js`
   * Última versão: `0.3.17`
-  * Pacote + Documentação: [Link](https://www.npmjs.com/package/hashi-vault-js)
+  * Documentação: [Link](https://www.npmjs.com/package/hashi-vault-js)
   * GitHub: [Link](https://github.com/rod4n4m1/hashi-vault-js)
+  * Instalação: `npm install hashi-vault-js --save`
 
-* Imagem docker `vault:1.6.0`
+* Servidor HashiCorp Vault
+  * Imagem docker: `vault:1.6.0`
+  * Localização: [Link](https://hub.docker.com/_/vault)
